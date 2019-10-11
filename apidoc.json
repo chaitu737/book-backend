@@ -1,0 +1,7 @@
+{
+    "name":"Book Backend",
+    "version": "0.0.1",
+    "description": "Documentation for the bookshell",
+    "title":"Book APIs",
+    "url": "http://localhost:3000"
+}
